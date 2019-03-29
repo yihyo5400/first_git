@@ -20,6 +20,7 @@ rebase한 기록을 남겨봅시다 ㅎㅅㅎ
 
 3/29 강수지
 	Hello Git!
+	conflicting!
 
 3/29 이승희
 	꺄
