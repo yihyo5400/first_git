@@ -7,3 +7,14 @@ rebase 연습하면서
 함께 자라나는 아기사자들~♡
 
 ******************************************
+
+3/30 지윤 들렀다 감! ^ㅁ^ 
+
+자동완성키능 : 
+Bash 쉘을 쓰고 있다면 멋진 자동완성(Auto-completion) 기능을 사용할 수 있다. 
+https://github.com/git/git/blob/master/contrib/completion/git-completion.bash 에서 
+바로 다운받는다. 
+
+그 파일을 홈 디렉토리에 카피하고 .bashrc 파일에 아래와 같은 내용을 추가하자:
+
+source ~/git-completion.bash
