@@ -22,3 +22,18 @@ Git 명령을 입력할 때 <Tab>키를 누르면 Git이 제안하는 명령들�
 화재 및 재난 발생시 git-fire 를 명령어로 내리면 작업중이었던 
 코드가 원격 서버에 commit/push 됩니다 !!
 
+
+******************************************
+
+3/30 ��� �鷶�� ��! ^��^ 
+
+�ڵ��ϼ�Ű�� : 
+Bash ��� ���� �ִٸ� ���� �ڵ��ϼ�(Auto-completion) ���� ����� �� �ִ�. 
+https://github.com/git/git/blob/master/contrib/completion/git-completion.bash ���� 
+�ٷ� �ٿ�޴´�. 
+
+�� ����� Ȩ ���丮�� ī���ϰ� .bashrc ���Ͽ� �Ʒ��� ��� ����� �߰�����:
+
+source ~/git-completion.bash
+
+
