@@ -37,3 +37,9 @@ https://github.com/git/git/blob/master/contrib/completion/git-completion.bash �
 source ~/git-completion.bash
 
 
+
+******************************************
+3/31 강수지
+Repository의 완전한 복사본을 로컬 장비에 둘 수 있다.
+=======
+
