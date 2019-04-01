@@ -43,3 +43,5 @@ source ~/git-completion.bash
 Repository의 완전한 복사본을 로컬 장비에 둘 수 있다.
 =======
 
+3/31 김정희
+GitHub는 사람들이 소프트웨어를 개발하는 방식이다
