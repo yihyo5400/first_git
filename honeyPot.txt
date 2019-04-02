@@ -73,5 +73,6 @@ git diff <원래가지> <비교 대상 가지>
 git diff 명령을 사용하면 현재 unstaged된(add되지않은) 수정사항만을 확인할 수 있다. 
 
 4/2 이효영
-git merge --abort merge 취소하기
+git config --global alias.<별명> <명령어>
+를 통해 명령어의 별명을 만들어 명령어를 쉽게 사용할 수 있다!
 
