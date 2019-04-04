@@ -115,3 +115,4 @@ git checkout <브랜치 이름> 을 사용하면 해당 브랜치로 이동할 �
 
 4/4 김서영
 	git checkout -b new_one 이라는 명령으로 새로운 가지를 만들 수 있다.
+
