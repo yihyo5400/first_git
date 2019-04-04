@@ -72,3 +72,7 @@ git diff <원래가지> <비교 대상 가지>
 4/1 구세영
 git diff 명령을 사용하면 현재 unstaged된(add되지않은) 수정사항만을 확인할 수 있다. 
 
+
+4/4 이현정
+git 명령을 입력할 때 <tab>키를 누르면 git이 제안하는 명령어가 출력된다.
+예를들어 git co를 입력하고 tab키를 두번 누르면 commit과 config를 제안한다.
