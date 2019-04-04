@@ -116,3 +116,11 @@ git checkout <브랜치 이름> 을 사용하면 해당 브랜치로 이동할 �
 4/4 김서영
 	git checkout -b new_one 이라는 명령으로 새로운 가지를 만들 수 있다.
 
+
+4/4 김서원
+git config --global alias.logs "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+
+위 명령어는 logs라는 매크로 명령어를 추가해 주는 명령이다.
+위 명령어를 입력한 뒤 'Git logs'라고 입력하면 branch들의 관계를 시각화해서 볼 수 있다
+
+
