@@ -25,7 +25,7 @@
 		git push origin master - > pull-request    
     
     
-  * * *
+  * * * 
 
 ## 명령어    
 - ls : 파일 list    
