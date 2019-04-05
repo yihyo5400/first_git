@@ -110,3 +110,5 @@ git config --global alias.logs "log --color --graph --pretty=format:'%Cred%h%Cre
 git help [command]라고 치면 html 마크업 된 문서를 확인할 수 있다.
 
 
+4/4 김수아
+다음에 git log정리하는 법 올릴게요.
