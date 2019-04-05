@@ -123,3 +123,23 @@ github에서 ~~~.html 넣고 publish 했는데 404 에러 뜰 때
 4/4 김서영
 스터디중~~~
 
+
+4/5 김선혜과제..
+
+Git Tips 모음
+
+충돌된 모든 파일 나열하기
+git diff --name-only --diff-filter=U
+
+
+2주 전부터 현재까지의 변경사항 보기
+git log --no-merges --raw --since='2 weeks ago'
+
+git whatchanged --since='2 weeks ago'
+
+
+현재 상태를 메시지와 함께 저장하기
+git stash save <message>
+
+다른 브랜치에서 파일내용 가져오기
+git show <branch_name>:<file_name>
